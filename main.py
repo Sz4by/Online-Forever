@@ -88,4 +88,3 @@ async def run_onliner():
         await asyncio.sleep(50)
 
 keep_alive()
-asyncio.run(run_onliner())
